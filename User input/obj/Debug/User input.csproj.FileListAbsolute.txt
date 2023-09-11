@@ -1,0 +1,7 @@
+C:\Users\fundedtraderSA\Documents\Visual Studio 2022\User input\User input\obj\Debug\User input.csproj.AssemblyReference.cache
+C:\Users\fundedtraderSA\Documents\Visual Studio 2022\User input\User input\obj\Debug\User input.csproj.CoreCompileInputs.cache
+C:\Users\fundedtraderSA\Documents\Visual Studio 2022\User input\User input\bin\Debug\User input.exe.config
+C:\Users\fundedtraderSA\Documents\Visual Studio 2022\User input\User input\bin\Debug\User input.exe
+C:\Users\fundedtraderSA\Documents\Visual Studio 2022\User input\User input\bin\Debug\User input.pdb
+C:\Users\fundedtraderSA\Documents\Visual Studio 2022\User input\User input\obj\Debug\User input.exe
+C:\Users\fundedtraderSA\Documents\Visual Studio 2022\User input\User input\obj\Debug\User input.pdb
